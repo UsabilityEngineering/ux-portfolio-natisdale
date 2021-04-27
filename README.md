@@ -6,4 +6,4 @@
 
 ## UX Journal
 
-[Vehicle Backup Camera System](/j01/j01.md)
+[Vehicle Backup Camera System](/j01/)
