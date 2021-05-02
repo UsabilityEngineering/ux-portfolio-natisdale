@@ -3,9 +3,9 @@
 LucidChart is an online application for creating diagrams. I have used it to create diagrams for several projects. The positive aspects are:
 
 * _Efficiency_ - The ability to search the library of predefined shapes earns a point for efficiency. For example, one can search for ‘UML’ to find all shapes that one might use for different Unified Modeling Language (UML) diagrams.
-* _Utility_ - Having used LucidChart to create a variety of diagrams for five classes, as well as work, I appreciate the utility offered by this tool
-* _Learnability_ - numerous examples templates help illustrate how to create different types of diagrams, including UML
-* _Fault Tolerant_ - LucidChart allows all diagrams to be backed up on a single export operations, which provides the ability to restore diagrams in the event of a loss This feature provides the added utility of being able to import diagrams into another account.
+* _Utility_ - Having used LucidChart to create a variety of diagrams for five classes, as well as work, I appreciate the utility offered by this tool.
+* _Learnability_ - Numerous examples templates help illustrate how to create different types of diagrams, including UML.
+* _Fault Tolerant_ - LucidChart allows all diagrams to be backed up on a single export operations, which provides the ability to restore diagrams in the event of a loss. This feature provides the added utility of being able to import diagrams into another account.
 
 Sharing is one area which impacts an otherwise satisfying user experience.  Specifically, there is failure in indicating the state of sharing after sharing a folder.  At first, using the Advanced Sharing dialog to invite a collaborator, Lucid shows an accurate list of collaborators and their _status_.
 
